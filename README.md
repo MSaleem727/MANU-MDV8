@@ -87,7 +87,7 @@ jobs:
 | Downloader Menu.📥              | ✅     |
 | Fun And Useful Menu.🥳              | ✅     |
 | News Menu.📰              | ✅     |
-| Settings With Antidelete.😻              | ✅     |
+| Mughal .😻              | ✅     |
 
 ---
 
